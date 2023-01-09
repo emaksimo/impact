@@ -53,7 +53,9 @@ Over 162,000 km2 (8%) of the Mexican territory are susceptible to flooding, [Bon
 **Fig 1** Source : [The World Bank](https://climateknowledgeportal.worldbank.org/country/mexico/vulnerability)
 
 
+
 ![image](figs/disaster_classification.png)
+
 **Fig 2**: The estimates are based on data from CENAPRED. Source : [Mexico: Financial Sector Assessment Program-Technical Note on Climate Risk Analysis, Dec 2022](https://www.imf.org/en/Publications/CR/Issues/2022/12/08/Mexico-Financial-Sector-Assessment-Program-Technical-Note-on-Climate-Risk-Analysis-526754)
 
 More than a third of flooded properties are situated outside areas designated as being flood prone. This huge number shows the urgent need for an update and redefinition of flood prone areas.
@@ -76,8 +78,8 @@ As the economic growth is coupled to energy consumption, our major focus are the
 
 The focus area is about 300 by 300 km. This region is highly vulnerable to physical climate risks.
 
-![image](manufacturing_clusters.png)
-**Fig 3**: Study area, focus on Mexican manufacturing industrial clusters.
+![image](figs/manufacturing_clusters.png)
+**Fig 4**: Study area, focus on Mexican manufacturing industrial clusters.
 
 ### State of art on physical climate risk assessment for Mexico
 
