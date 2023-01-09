@@ -53,7 +53,7 @@ Over 162,000 km2 (8%) of the Mexican territory are susceptible to flooding, [Bon
 **Fig 1** Source : [The World Bank](https://climateknowledgeportal.worldbank.org/country/mexico/vulnerability)
 
 
-![](figs/disaster_classification.png =250x250)
+![](figs/disaster_classification.png)
 
 **Fig 2**: The estimates are based on data from CENAPRED. Source : [Mexico: Financial Sector Assessment Program-Technical Note on Climate Risk Analysis, Dec 2022](https://www.imf.org/en/Publications/CR/Issues/2022/12/08/Mexico-Financial-Sector-Assessment-Program-Technical-Note-on-Climate-Risk-Analysis-526754)
 
