@@ -7,9 +7,9 @@ Author : [Jorge Hinojosa Garza](https://www.linkedin.com/in/jorge-hinojosa-54aa6
 
 Business interruptions, property loss, asset devaluation, credit risk, drinking water shortage - these are just a few examples of the physical climate risks.
 Physical climate risks trigger long-term cascading damage to the environment, biodiversity, populations and all economic activities, even outside the impacted area. 
-Teleconnections between these components are provided through supply chains, water usage restrictions, pollution, the electricity consumptions and kwh electricity pricing. 
+Teleconnections between these components are made through supply chains, water usage restrictions, pollution, the electricity consumptions and kwh electricity pricing. 
 
-For insurance companies the physical climate risks are material, as well as for the property owners, risk managers, farmers and industrial companies. 
+For insurance companies these physical climate risks are material, as well as for the property owners, risk managers, farmers and industrial companies. 
 
 The availability of insurance is critical information for the property valuation. 
 Insurance is one of the key arguments for policymakers, for tax regulators and for business decisions.
@@ -94,10 +94,10 @@ For impact assessment we will combine the following resources:
 
 ### Supporting the Climate adaptation
 
-With millions of properties at risk from flooding and the number set to rise, this problem with flood prevention should be managed and coordinated at the national level. Millions of people are trapped in a home which they can’t sell. They can’t afford buying another home and are in danger due to high flood risk.
+With millions of properties at risk from pluvial flooding and the number set to rise, this problem with flood prevention should be managed and coordinated at the national level. Millions of people are trapped in a home which they can’t sell. They can’t afford buying another home and are in danger due to high flood risk.
 
 And this is not just a problem for those who already live in a flood risk area! 
-To remind, **25% of flood events occurred outside** the official flood risk areas.  Each flood-defence scheme is a big  project worth of millions of US dollars.
+To remind, the third of flood events occurred outside the flood risk areas.  Each flood-defence scheme is a big  project worth of millions of US dollars.
 
 With this study we want to go beyond risk mapping and exposure alert. 
 Detailed evaluation of the expected losses is a strong argument for further adaptation fund allocations. This study will  focus on the local scale, i.e. on the level of individual buildings. Explicit risk information should enable communities, companies, and people to prepare for disasters. Currently since such detailed data are hardly available.
@@ -105,7 +105,7 @@ Detailed evaluation of the expected losses is a strong argument for further adap
 ### Services proposed
 
 1. Physical climate risk loss modelling and mapping 
-2. Focus on 6 hazard types : **pluvial flood**, **coastal flood**, **landslide**, **heat wave** (extreme temperature), **severe storm**, landfall.
+2. Focus on 6 hazard types : **pluvial flood**, **wildfire**, **landslide**, **heat wave** (extreme temperature), **severe storm**, landfall.
 3. Risk rating using commercial insurance logic : **no risk** - **insurable** - **uninsurable**. 
 This approach should put on light the most fragile areas. 
 1 km x 1 km resolution risk mapping.
