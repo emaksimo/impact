@@ -47,9 +47,14 @@ Mexico has seen many severe floodings in the past 20 years, including 2005 (hurr
 
 Both in terms of the social and economic impact, the most prominent physical risks are floodings and tropical cyclones [**Fig 2**]. 
 
+According to the [central bank of Mexico (2022)](https://www.imf.org/en/Publications/CR/Issues/2022/12/08/Mexico-Financial-Sector-Assessment-Program-Technical-Note-on-Climate-Risk-Analysis-526754) the sequence of extreme tropical cyclone and flood events occurring within a single
+season based on historical climate conditions could lower the level of gross domestic product (GDP)
+by more than one percentage point within the year. 
+
 Over 162,000 km2 (8%) of the Mexican territory are susceptible to flooding, [Bonasia and Lucatello, 2019](https://www.mdpi.com/2073-4433/10/8/424) [**Fig 3**].
 
 ![image](figs/key-natural-hazard-stati.png)
+
 **Fig 1** Source : [The World Bank](https://climateknowledgeportal.worldbank.org/country/mexico/vulnerability)
 
 
@@ -60,6 +65,7 @@ Over 162,000 km2 (8%) of the Mexican territory are susceptible to flooding, [Bon
 More than a third of flooded properties are situated outside areas designated as being flood prone. This huge number shows the urgent need for an update and redefinition of flood prone areas.
  
 ![image](figs/atmosphere-10-00424-g001.png)
+
 **Fig 3**: Areas of flood hazard in Mexico. Source : [Bonasia and Lucatello, 2019](https://www.mdpi.com/2073-4433/10/8/424)
 
 
@@ -78,6 +84,7 @@ As the economic growth is coupled to energy consumption, our major focus are the
 The focus area is about 300 by 300 km. This region is highly vulnerable to physical climate risks.
 
 ![image](figs/manufacturing_clusters.png)
+
 **Fig 4**: Study area, focus on Mexican manufacturing industrial clusters.
 
 ### State of art on physical climate risk assessment for Mexico
@@ -120,17 +127,19 @@ Uninsurable means unaffordable for an average household.
 
 ### Scenario analysis
 
-For this project we take eight Global Climate Models participating the Coupled Model Intercomparison Project phase 6 ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) experiment for the historical period (1950-2015) and the forward-looking period (2021-2050).
-Three climate change scenarios are considered, those the most widely used : RCP2.6, RCP 4.5 and RCP8.5.
+For this project we take several Global Climate Models participating the Coupled Model Intercomparison Project phase 6 ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) experiment for the historical period (1950-2015) and the forward-looking period (2021-2050).
+Three climate change scenarios are considered, those the most widely used : 
+* RCP2.6  (orderly transition)
+* RCP 4.5 (disorderly transition)
+* RCP8.5  (hot-house world)
 
 ### Planned Impact
 
-Our goal is to use modern hydrological and meteorological tools to develop and assess a methodology for end-to-end flood risk assessment based on modelling the specific impacts at each location and each time step.
-Historical and forward-looking, with scenario analysis for climate change.
-The spatial extent and recurrence of flooding should be translated into sector-specific consequences.
-Via financial modelling we .
-
-In contrast to European countries, Mexico does not benefit yet from the advanced mitigation engineering projects, although with many vulnerable communities.
+Our goal is to make the first version of the impact assessment tool for the selected region.
+By using modern hydrological, satellite and meteorological technologies we intend to develop and propose a methodology for physical climate risk assessment.
+The methodology will consist in modelling of sector-specific impacts and pattern detecting. 
+Impact assessment will be evaluated using the historical and forward-looking climate data, with scenario analysis for climate change.
+The spatial extent and recurrence of physical climate risks should be translated into sector-specific consequences.
 
 ### Key words
 
