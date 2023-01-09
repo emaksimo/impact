@@ -1,14 +1,55 @@
 
 ## Mapping uninsurables
 
+Author : [Jorge Hinojosa Garza](https://www.linkedin.com/in/jorge-hinojosa-54aa6520/)
+
+Business interruptions, property loss, asset devaluation, credit risk, drinking water shortage - these are just a few examples of the physical climate risks.
+Physical climate risks trigger long-term cascading impacts on the environment, biodiversity, populations and the economic activities.
+
+For insurance companies the physical climate risks are material, 
+as well as for the property owners, farmers and industrial companies. 
+
+The availability of insurance is critical information for the property valuation. 
+Insurance is one of the key arguments for policymakers, for tax regulators and for business decisions.
+The availability and the pricing of the insurance policy can be used efficiently for mapping the priority regions for climate adaptation action.
+
+The locations most vulnerable to severe climate events are uninsurable. 
+The latest research shows that the frequency and intensity of severe events are shifting under climate change. Some areas could become uninsurable. 
+
+Uninsurable also means unaffordable. The cost of the premium is calculated as a function of the total number of climate hazards over a long period of time and the worst-case pay-off. The premium is roughly 5-10% of the maximum payoff. For the properties exposed to high risk the annual premium could reach tens of thousands of GBP. 
+
+Already ten years ago the insurance companies started to adjust the in-house climate risk modelling and the thresholds for the pay-off - by applying and removing the multi-year tendencies. Yet, for this forward adjustment, the insurance companies are not using the tendencies from the Global Climate Model experiments. Instead, insurers simply extrapolate the historical number of droughts and floods forward. 
+
+Other than the cost of insurance, the limitation could arise from the type of hazard and the geography. 
+
+Typically, brokers restrain their offering to NatCat group which includes the massive climate disasters of the century. This means that the insurance policies just don’t consider other hazard types : the small-medium floods, the heat waves, cold air outbreaks, droughts, severe storms. 
+
+Availability of insurance for floods and hurricanes is a subject to geography. It is impossible to price the loss without the high quality hazard time series over a long-term. In the absence of detailed hazard history, the insurance company can’t underwrite the insurance policy.
+
+Physical climate risk data should be the public good. As for today, the risk data access is asymmetric between communities and the insurance companies. These operate with very different risk maps for floods. 
+
+With all the evidence, for knowledgeable decision making, the communities need the access to the same resources (maps and data) which are used by insurance companies. 
+
+To become valuable, the physical climate risk exposure (the time series of hazards) should be translated into financial metrics.
+To do so, adopted the insurance logic for the physical climate risk assessment. Asset-level : no risk - insurable - uninsurable.
+
+Uninsurable means unaffordable for an average household. 
+Mathematically, the risk score is calculated as a damage ratio: the cost of flood damages relative to the total insurance policy cost.
+Both costs are integrated over a 30-year mortgage period.
+30-years is the duration of a typical home mortgage.
+
+### Physical climate risks in Mexico
 Mexico has seen many severe floodings in the past 20 years, including 2010, 2020, July 2021, August 2022, see **Fig 1**. 
 
-According to the official statistics, in Mexico the most prominent physical risks are floodings and Severe Storms.
+Both in terms of the social and environmental impact, the most prominent physical risks are Floodings and Severe Storms.
 
 ![image](figs/key-natural-hazard-stati.png)
 **Fig 1** Source : [The World Bank](https://climateknowledgeportal.worldbank.org/country/mexico/vulnerability)
 
 More than 25% of flooded properties are situated outside areas designated as being flood prone [**[1](https://www.morganclark.co.uk/about-us/blog/uk-flood-statistics-facts-about-flooding/)**]. This huge number shows the urgent need for an update and redefinition of flood prone areas.
+
+
+### State of art on physical climate risk assessment
 
 Multiple research stated that the inefficiency of the system in preventing damage 
 caused by floods in Mexico is due to both the lack of high-level expertise in hazard maps 
@@ -60,7 +101,11 @@ This use case will become the pilot project for further commercial product devel
 
 ### About the Company
 
-This project is the partnership between three companies in four countries.
-**JH** is an R&D company based in Mexico, specialised in climate impact assessment and financial risk modeling.
-[Weather Trade Net](https://www.weathertrade.net/) is a UK technology company specialised on physical climate risk modeling and the corporate compliance with new climate regulatory policy.
-The [ClimateRadar](https://www.climateradar.com/) is a Scientific initiative on Climate data validation and analytics.
+This project is the partnership between three entrepreneurs (three companies) in three countries : Mexico, France and Netherlands.
+We have two paying clients for the product described here and about 30 leads (big companies) discovering and testing our solution.
+**JH** is an R&D company based in Mexico, specialised in ESG consultancy, climate impact assessment and financial risk modeling. Our impact studies include the credit risk and insurance risk pricing.
+
+[Weather Trade Net](https://www.weathertrade.net/) is a UK technology company specialised on physical climate risk modeling and the corporate compliance with new climate regulatory policy. 
+
+The [ClimateRadar](https://www.climateradar.com/) is a Scientific initiative on Climate data validation and analytics. Climate data products produced by the leading national research centers is our primary raw material for flood and drought reconstruction. So far, the raw data is simply the hourly temperature and precipitation. We apply scientific methodologies to reconstruct floods, hurricanes and heatwaves from these hourly raw data sources. The combination of the satellite data (observations) with numerical model outputs allows for higher spatial resolution for detailed hazard mapping. Forward-looking predictive modeling is entirely based on AI and Machine Learning.
+
