@@ -6,7 +6,7 @@ Author : [Jorge Hinojosa Garza](https://www.linkedin.com/in/jorge-hinojosa-54aa6
 
 ### Avant Propos
 
-Business interruptions, property loss, asset devaluation, credit risk, drinking water shortage - these are just a few examples of the physical climate risks.
+Business interruptions, property loss, asset devaluation, credit risk, drinking water shortage - these are just a few examples of impact of physical climate risks.
 Physical climate risks trigger long-term cascading damage to the environment, biodiversity, populations and all economic activities, even outside the impacted area. 
 Teleconnections between these components are made through supply chains, water usage restrictions, pollution, the electricity consumptions and kwh electricity pricing. 
 
@@ -126,10 +126,11 @@ Uninsurable means unaffordable for an average household.
 7. Integration of multi-model approach using the most recent climate model data ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) and also the recent high resolution satellite hazard mapping data, e.g. by the [ESA](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Satellite_flood_maps_reach_crisis_teams_via_Internet). “Multi-model” means much bigger data sample compared to limited observational record.
 8. Forward-looking flood risk assessment, as well as for the other 4 hazard types. Focus on 5-10-30-year horizon. Multi-model approach using the most recent model data (CMIP6).
 9. Multi-model approach allows for uncertainty assessment.
-10. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies.
+10. Dissemination of the mapped risks through an interactive web application.
+1Activating and supporting the local initiatives to accelerate and promote risk prevention strategies.
 More effort and more responsibility should be asked from the Government and local authorities. 
 NGOs and landlords need efficient and comprehensible tools and support.
-11. The banks and investors ask for data and tools for climate-related financial risk assessment.
+12. The banks and investors ask for data and tools for climate-related financial risk assessment.
 
 ### Scenario analysis
 
