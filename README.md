@@ -22,18 +22,24 @@ Already ten years ago the insurance companies started to adjust the in-house cli
 Other than the cost of insurance, the limitation could arise from the type of hazard and the geography. 
 Typically, brokers restrain their offering to NatCat group which includes the massive climate disasters of the century. This means that the insurance policies just don’t consider other hazard types, e.g. the small to medium floods, heat waves, cold air outbreaks, droughts and severe storms. 
 
-Availability of insurance for floods and hurricanes is subject to geography. It is impossible to price the loss without high quality hazard time series that cover a long time span. In the absence of detailed hazard history, the insurance company can’t underwrite the insurance policy. **(Maybe add something that we can provide this)**
+Availability of insurance for floods and hurricanes is subject to geography. 
+It is impossible to price the loss without high quality hazard time series that cover a long time span. 
+In the absence of detailed hazard history, the insurance company can’t underwrite the insurance policy. 
+Our team has a 15-year expertise in climate data science, specifically with insurance and risk management focus. We work together with insurance companies on parametric weather insurance underwriting.
 
-Physical climate risk data should be the public good. As for today, the risk data access is asymmetric between communities and the insurance companies. These operate with very different risk maps for floods.
-With all the evidence, for knowledgeable decision making, the communities need access to the same resources (maps and data) which are used by insurance companies. **(Maybe clarify a bit more why the communities better access to this data)**
+Physical climate risk data should be the public good. As for today, the risk data access is asymmetric between communities and the insurance companies. 
+These operate with very different risk maps for floods.
+With all the evidence, for knowledgeable decision making, the communities need access to the same resources (maps and data) which are used by insurance companies. 
+Local authorities and property owners should be aware of the risk (a) to define mitigation action, (b) to secure people, (c) to prevent major damages.  
 
 To become valuable, the physical climate risk exposure (the time series of hazards) should be translated into financial metrics.
-To do so, **(something is missing here, maybe 'we')** adopted the insurance logic for the physical climate risk assessment. Asset-level : no risk - insurable - uninsurable.
+To do so, we adopted the insurance logic for the physical climate risk assessment. Asset-level : no risk - insurable - uninsurable.
 
 Uninsurable means unaffordable for an average household. 
 Mathematically, the risk score is calculated as a damage ratio: the cost of flood damages relative to the total insurance policy cost.
 Both costs are integrated over a 30-year mortgage period.
-30-years is the duration of a typical home mortgage. **(Not sure what the point is that you are trying to make here)**
+30-years is the duration of a typical home mortgage. This is why we also use 30-year time periods for the risk assessment. 
+In other words: what is the chance of flood within the period of 30 years ?
 
 ### Physical climate risks in Mexico
 
@@ -79,7 +85,7 @@ The focus area is about 300 by 300 km. This region is highly vulnerable to physi
 
 Multiple research stated that the inefficiency of the system in preventing damage 
 caused by floods in Mexico is due to both the lack of high-level expertise in hazard maps 
-design and the lack of their use in decision-making policies at the local level [[2](https://www.mdpi.com/2073-4433/10/8/424), ]
+design and the lack of their use in decision-making policies at the local level [[2](https://www.mdpi.com/2073-4433/10/8/424)]
 
 For impact assessment we will combine the following resources:
 * [Desinventar](https://www.desinventar.org/) : data for human and material losses, damages, disasters, and events that have impacted different countries in Latin America
