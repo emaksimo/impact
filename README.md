@@ -111,8 +111,11 @@ Uninsurable means unaffordable for an average household.
 8. Forward-looking flood risk assessment, as well as for the other 4 hazard types. Focus on 5-10-30-year horizon. Multi-model approach using state-of-the-art climate models (CMIP6).
 9. Multi-model approach allows for uncertainty assessment.
 10. Dissemination of the mapped risks through an interactive web application.
-11. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies. More effort and more responsibility should be asked from the Government and local authorities. NGOs and landlords need efficient and comprehensible tools and support.
-12. The UK banks and the London Stock Exchange Group ask for data and tools for credit risk assessment.
+11. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies. 
+More effort and more responsibility should be asked from the Government and local authorities. 
+NGOs and landlords need efficient and comprehensible tools and support.
+12. The banks and investors ask for data and tools for climate-related financial risk assessment.
+
 
 ### Scenario analysis
 
@@ -139,7 +142,7 @@ This use case will become the pilot project for further commercial product devel
 
 This project is the partnership between five impact-driven entrepreneurs (three companies) in three countries : Mexico, the UK and Netherlands.
 We have two paying clients for the product described here and about 30 leads (big companies) discovering and testing our solution.
-**JH** is an R&D company based in Mexico, specialised in ESG consultancy, climate impact assessment and financial risk modeling. Our impact studies include the credit risk and insurance risk pricing.
+**REALTO** is an R&D company based in Mexico, specialised in ESG consultancy, climate impact assessment and financial risk modeling. Our impact studies include the credit risk and insurance risk pricing.
 
 [Weather Trade Net](https://www.weathertrade.net/) is a UK technology company specialised on physical climate risk modeling and the corporate compliance with new climate regulatory policy. 
 
