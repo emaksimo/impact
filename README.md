@@ -1,4 +1,5 @@
 
+
 ## Mapping uninsurables
 
 Author : [Jorge Hinojosa Garza](https://www.linkedin.com/in/jorge-hinojosa-54aa6520/)
@@ -106,7 +107,10 @@ And this is not just a problem for those who already live in a flood risk area!
 To remind, the third of flood events occurred outside the flood risk areas.  Each flood-defence scheme is a big  project worth of millions of US dollars.
 
 With this study we want to go beyond risk mapping and exposure alert. 
-Detailed evaluation of the expected losses is a strong argument for further adaptation fund allocations. This study will  focus on the local scale, i.e. on the level of individual buildings. Explicit risk information should enable communities, companies, and people to prepare for disasters. Currently since such detailed data are hardly available.
+Detailed evaluation of the expected losses is a strong argument for further adaptation fund allocations. 
+This study will  focus on the local scale, i.e. on the level of individual buildings. 
+Explicit risk information should enable communities, companies, and people to prepare for disasters. 
+Currently such detailed data are hardly available.
 
 ### Services proposed
 
@@ -117,12 +121,14 @@ This approach should put on light the most fragile areas.
 1 km x 1 km resolution risk mapping.
 4. Open Source methodology for risk rating : no risk - insurable - uninsurable. 
 Uninsurable means unaffordable for an average household.
-5. interactive vulnerability map and Open Data risk rating 
+5. Interactive vulnerability map and Open Data risk rating 
 6. Open Source code 
 7. Integration of multi-model approach using the most recent climate model data ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) and also the recent high resolution satellite hazard mapping data, e.g. by the [ESA](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Satellite_flood_maps_reach_crisis_teams_via_Internet). “Multi-model” means much bigger data sample compared to limited observational record.
 8. Forward-looking flood risk assessment, as well as for the other 4 hazard types. Focus on 5-10-30-year horizon. Multi-model approach using the most recent model data (CMIP6).
 9. Multi-model approach allows for uncertainty assessment.
-10. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies. More effort and more responsibility should be asked from the Government and local authorities. NGOs and landlords need efficient and comprehensible tools and support.
+10. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies.
+More effort and more responsibility should be asked from the Government and local authorities. 
+NGOs and landlords need efficient and comprehensible tools and support.
 11. The banks and investors ask for data and tools for climate-related financial risk assessment.
 
 ### Scenario analysis
