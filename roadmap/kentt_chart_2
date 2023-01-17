@@ -1,0 +1,68 @@
+gantt
+ title PROJECT ROADMAP (18 months)
+    dateFormat  YYYY-MM-DD
+    axisFormat %-Y/%-m
+
+    Section Scientific Project Manager
+    Team contract signatures : done, a1, 2023-04-01, 2023-05-01
+    Design of layers for Google Maps (loss and damage, cost, social vulnerability) : done, a1, 2023-05-01, 2023-05-15
+    Use-case N1 for real estate and property development: after a1, 2023-05-20, 50d
+    Public communication - 1 (real estate) : crit, active, 2023-07-10, 80d
+    MVP solution testing      :  done, a1, 2023-10-10, 2024-01-15
+    Use-case N2 for flood insurance pricing : after a1, 2024-01-20, 60d
+    Public communication - 2 (flood insurance) : crit, active, 2024-03-20, 60d
+    Use-case N3 for mortgage /  credit risk : after a1, 2024-06-01  , 40d
+    Project deliverables : crit, active, 2024-07-15, 120d
+    Public communication - 3 (mortgage risk) : crit, active, 2024-10-01, 60d
+
+
+
+    section Climate Scientist 1
+    Collecting climate peril data (other than flood) : done, a1, 2023-05-01  , 2023-05-10
+    Loss & Damage climate risk assessment using historical observations only :done, a1, 2023-05-10, 2023-06-15
+    Multi-model climate analytics (historical and forward looking)  :done, a1, 2023-06-16, 2023-08-30
+    Scenario analysis for forward-looking data :done, a1, 2023-09-01, 2023-09-15
+    MVP solution testing      :  done, a1, 2023-10-10, 2024-01-15
+    Public communication - 4 (drough / heatwave insurance) : crit, active, 2024-01-20  , 60d
+    Use-case N3 for mortgage /  credit risk : after a1, 2024-06-01  , 40d
+
+
+
+    section Climate Scientist 2
+    collecting climate flood data and AI system set-up : done, a1, 2023-05-01  , 2023-05-31
+    AI flood predictive modelling with single climate model (CNRM / CMIP6) : done, a1, 2023-06-05  , 2023-06-30
+    AI flood predictive modelling with multiple climate models (historical) : done, a1, 2023-07-05, 2023-07-25
+    Scenario analysis, multi-model analytics for flood assessment : done, a1, 2023-08-01, 2023-10-10
+    MVP solution testing      :  done, a1, 2023-10-10, 2024-01-15
+    Public communication - 5 (SMI resilience) : crit, active, 2024-01-20  , 60d
+    Use-case N3 for mortgage /  credit risk : after a1, 2024-06-01  , 40d
+
+
+    section GIS Data Scientist
+    collecting economic and social data : done, a1, 2023-05-01  , 2023-06-30
+    Mapping households with high debt-to-revenue ratio : done, a1, 2023-07-01  , 2023-07-15
+    Mapping households without FloodRe insurance scheme : done, a1, 2023-07-16  , 2023-07-30
+    Mapping commercial properties  : done, a1, 2023-08-01  , 2023-09-01
+    District-level data aggregation    : done, a1, 2023-09-01  , 2023-11-01
+    MVP solution testing      :  done, a1, 2023-10-10, 2024-01-15
+    Public communication - 6 (district-level social vulnerability): crit, active, 2024-02-01  , 40d
+    Public communication - 7 (district-level SMI vulnerability): crit, active, 2024-04-01  , 60d
+
+
+    section Insurance Data Scientist
+    Methodology definition : done, a1, 2023-05-01, 2023-06-01
+    Collecting and regrid Economic Data statistics at district level : done, a1, 2023-06-06, 2023-06-20
+    Risk pricing over 70 years backwards (historical climate data):done, a1, 2023-06-25, 2023-07-20
+    Scenario analysis multi-model analytics (forward looking, historical): done, a1, 2023-08-01, 2023-10-10
+    MVP solution testing      :  done, a1, 2023-10-10, 2024-02-30
+    Public communication - 8 and 9 : crit, active, 2024-03-10  , 80d
+
+
+    section Back-end
+    Public API development for Open Data   : done, a1, 2024-09-01, 2024-09-26
+    Integration of our vulnerability data into 3D google maps : done, a1, 2024-10-01, 2024-10-26
+    Final product testing      :  done, a1, 2024-10-01, 2024-11-30
+
+    section Front-end
+    API development and API security testing   : done, a1, 2024-09-01, 2024-09-26
+    Final product testing    :  done, a1, 2024-10-01, 2024-11-30
