@@ -104,23 +104,25 @@ Detailed evaluation of the expected losses is a strong argument for further adap
 
 ### Services proposed
 
-1. Physical climate risk mapping and loss modelling
-2. Focus on 6 hazard types : **pluvial flood**, **wildfire**, **landslide**, **heat wave** (extreme temperature), **severe storm**, landfall.
-3. Risk rating using commercial insurance logic : **no risk** - **insurable** - **uninsurable**. 
+1. Initial design of the Risk Rating methodology. To support decision making process, the risk rating should be defined using the commercial insurance logic : **no risk** - **insurable** - **uninsurable**. 
+2. Physical climate risk mapping and loss modelling
+3. Focus on 6 hazard types : **pluvial flood**, **wildfire**, **landslide**, **heat wave** (extreme temperature), **severe storm**, landfall.
+4. 
 This approach should put on light the most fragile areas. 
 1 km x 1 km resolution risk mapping.
-4. Open Source methodology for risk rating : no risk - insurable - uninsurable. 
+5. Open Source methodology for risk rating : no risk - insurable - uninsurable. 
 Uninsurable means unaffordable for an average household.
-5. interactive vulnerability map and Open Data risk rating 
-6. Open Source code 
-7. Integration of multi-model approach using the most recent climate model data ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) and also the recent high resolution satellite hazard mapping data, e.g. by the [ESA](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Satellite_flood_maps_reach_crisis_teams_via_Internet). “Multi-model” means much bigger data sample compared to limited observational record.
-8. Forward-looking flood risk assessment, as well as for the other 4 hazard types. Focus on 5-10-30-year horizon. Multi-model approach using state-of-the-art climate models (CMIP6).
-9. Multi-model approach allows for uncertainty assessment.
-10. Dissemination of the mapped risks through an interactive web application.
-11. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies. 
+6. interactive vulnerability map and Open Data risk rating 
+7. Open Source code 
+8. Integration of multi-model approach using the most recent climate model data ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) and also the recent high resolution satellite hazard mapping data, e.g. by the [ESA](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Satellite_flood_maps_reach_crisis_teams_via_Internet). “Multi-model” means much bigger data sample compared to limited observational record.
+9. Forward-looking flood risk assessment, as well as for the other 4 hazard types. Focus on 5-10-30-year horizon. Multi-model approach using state-of-the-art climate models (CMIP6).
+10. Multi-model approach allows for uncertainty assessment.
+11. Dissemination of the mapped risks through an interactive web application.
+12. Activating and supporting the local initiatives to accelerate and promote risk prevention strategies. 
 More effort and more responsibility should be asked from the Government and local authorities. 
 NGOs and landlords need efficient and comprehensible tools and support.
-12. The banks and investors ask for data and tools for climate-related financial risk assessment.
+13. The banks and investors ask for data and tools for climate-related financial risk assessment
+14. Identification of specific financing requirements for 3-5 pilot cases. Consultations with the shortlisted cities/municipalities.
 
 
 ### Scenario analysis
